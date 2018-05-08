@@ -3,7 +3,7 @@
 #Chapter11 Script Introduction To Shell Scripts
 
 #Using the $0 to print the name of the Script
-echo Welcome To Rony\'s Chapter 11 Script which is call: $0
+echo Chapter 11 Script which is call: $0
 #Prints the process ID for this script
 echo The Process ID Equals: $$
 #Set the Executable bit for this script
